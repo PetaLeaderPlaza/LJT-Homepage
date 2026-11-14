@@ -3,6 +3,7 @@ title: "On the Perception Bottleneck of VLMs for Chart Understanding"
 collection: publications
 category: preprints
 permalink: /publication/perception-bottleneck-vlm-chart-understanding
+date: '2025'
 year: 2025
 venue: 'arXiv'
 authors: 'Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He'
