@@ -16,7 +16,7 @@ Research Experience
 ======
 * Research Intern, MINIMAX, February 2025–Present
 * Research Intern, Tencent WXG, June 2024–September 2024, advisor:  Zifei Shan
-* Research Intern, Shanghai AI Lab, June 2023–December 2023, advisor:  Prof.  Yu Cheng
+* Research Intern, Shanghai AI Lab, June 2023–December 2023, advisor: Prof. Yu Cheng
 
 Research Interests
 ======
